@@ -377,12 +377,12 @@ img {
   max-height: 70%;
 }
 .section-title h2 {
-  font-size: 32px;
+  font-size: 25px;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 20px;
   padding-bottom: 20px;
-  font-family: "Lucida handwriting", cursive;
+  font-family: "Papyrus", fantasy;
   position: relative;
   color: #45505b;
 }
@@ -692,7 +692,7 @@ img {
 # Contact
 --------------------------------------------------------------*/
 .contact h2 {
-  font-size: 36px; /* Ukuran font untuk heading */
+  font-size: 26px; /* Ukuran font untuk heading */
   font-weight: bold;
   text-align: center;
   color: #45505b;
@@ -865,6 +865,7 @@ img {
   font-family: "Poppins", sans-serif;
   padding: 0;
   margin: 0 0 15px 0;
+  
 }
 
 #footer p {
